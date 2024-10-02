@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Konrad-lab
 - 👀 I’m interested in Software- enginering and web-development.
-- 🌱 I’m currently learning TypeScript and Java/JavaScript but i can use Python and C++ on a good level.
+- 🌱 I’m currently learning TypeScript and Java/JavaScript but i can use Python and C++ 
 - 📫 if you want to help me or just talk with me or someone you can do it in this discord:(https://discord.gg/7N5YExvXZX)
