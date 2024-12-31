@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @Konrad-lab<br>- 👀 I’m interested in Software- enginering and web-development.<br>- 🌱 I’m currently learning to be a Full-Stack Developer but later i want to be a Sofware-Engineer.<br>- 📫 You can message me if you want: (https://discord.gg/7N5YExvXZX)<br>
+- 👋 Hi, I’m @Konrad-lab<br>- 👀 I’m interested in Software- enginering and web-development.<br>- 🌱 I’m currently learning  to be a Sofware-Engineer.<br>- 📫 You can message me if you want: (https://discord.gg/7N5YExvXZX)<br>
 
 
 ## 🌐 Socials:
